@@ -170,7 +170,7 @@ export function UserProfile() {
 
             {/* Footer */}
             <footer className="text-center text-gray-500 text-sm py-8 border-t border-gray-800">
-                <p>© 2025 ListLinkd. All rights reserved.</p>
+                <p>© 2025 Track Stack. All rights reserved.</p>
                 <p className="mt-1">*TV data from TMDB</p>
             </footer>
         </div>

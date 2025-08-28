@@ -38,7 +38,7 @@ export function Navigation({
                 <div className="flex h-16 items-center justify-between">
                     {/* Logo */}
                     <div className="flex items-center">
-                        <h1 className="text-xl font-bold text-white">ListLinkd.</h1>
+                        <h1 className="text-xl font-bold text-white">Track Stack</h1>
                     </div>
 
                     {/* Navigation */}
